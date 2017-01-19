@@ -2,7 +2,7 @@
 #trips: Input data frame
 #startpoint: Longitude and Latitude of where the trips of interest should originate
 #endpoint: Longitude and Latitude of where the trips should end
-#Distance: Permissable distance from the coordinates of interest
+#Distance: Permissable distance from the coordinates of interest, default: 50 meters
 
 
 TripsBetweenPoints<-function(trips,startpoint,endpoint,Distance=50)

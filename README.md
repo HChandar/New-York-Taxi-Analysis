@@ -1,2 +1,2 @@
 # New-York-Taxi-Analysis
-To study the performance of new york city's yellow cabs over time
+A study of New York city's yellow cabs over time
